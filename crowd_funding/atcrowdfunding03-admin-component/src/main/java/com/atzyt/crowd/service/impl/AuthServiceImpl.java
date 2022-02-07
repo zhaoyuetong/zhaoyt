@@ -12,7 +12,7 @@ import java.util.Map;
 
 @Service
 public class AuthServiceImpl implements AuthService {
-	
+
 	@Autowired
 	private AuthMapper authMapper;
 
@@ -43,6 +43,12 @@ public class AuthServiceImpl implements AuthService {
 		if(authIdList != null && authIdList.size() > 0) {
 			authMapper.insertNewRelationship(roleId, authIdList);
 		}
+	}
+
+	@Override
+	public List<String> getAssignedAuthNameByAdminId(Integer adminId) {
+
+		return authMapper.selectAssignedAuthNameByAdminId(adminId);
 	}
 
 }

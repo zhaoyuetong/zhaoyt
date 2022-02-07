@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="navbar-header">
 				<div>
-					<a class="navbar-brand" href="index.html" style="font-size: 32px;">众筹网-创意产品众筹平台</a>
+					<a class="navbar-brand" href="index.html" style="font-size: 32px;">尚筹网-创意产品众筹平台</a>
 				</div>
 			</div>
 		</div>
@@ -41,7 +41,7 @@
 	<div class="container">
 	
 		<h2 class="form-signin-heading" style="text-align: center;">
-			<i class="glyphicon glyphicon-log-in"></i> 众筹网系统消息
+			<i class="glyphicon glyphicon-log-in"></i> 尚筹网系统消息
 		</h2>
 		<!-- 
 			requestScope对应的是存放request域数据的Map

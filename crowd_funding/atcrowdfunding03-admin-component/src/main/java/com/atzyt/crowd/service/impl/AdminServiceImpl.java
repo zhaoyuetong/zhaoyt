@@ -4,6 +4,7 @@ import com.atzyt.crowd.constant.CrowdConstant;
 import com.atzyt.crowd.entity.Admin;
 import com.atzyt.crowd.entity.AdminExample;
 import com.atzyt.crowd.entity.AdminExample.Criteria;
+import com.atzyt.crowd.exception.LoginAcctAlreadyInUseException;
 import com.atzyt.crowd.exception.LoginAcctAlreadyInUseForUpdateException;
 import com.atzyt.crowd.exception.LoginFailedException;
 import com.atzyt.crowd.mapper.AdminMapper;
@@ -15,8 +16,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 
@@ -24,14 +28,40 @@ import java.util.Objects;
 public class AdminServiceImpl implements AdminService {
     @Autowired
     private AdminMapper adminMapper;
+    @Autowired
+    private BCryptPasswordEncoder passwordEncoder;
 
     private Logger logger = LoggerFactory.getLogger(AdminServiceImpl.class);
 
     @Override
     public void saveAdmin(Admin admin) {
-        adminMapper.insert(admin);
-    }
 
+        // 1.密码加密
+        String userPswd = admin.getUserPswd();
+        // userPswd = CrowdUtil.md5(userPswd);
+        userPswd = passwordEncoder.encode(userPswd);
+        admin.setUserPswd(userPswd);
+
+        // 2.生成创建时间
+        Date date = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        String createTime = format.format(date);
+        admin.setCreateTime(createTime);
+
+        // 3.执行保存
+        try {
+            adminMapper.insert(admin);
+        } catch (Exception e) {
+            e.printStackTrace();
+
+            logger.info("异常全类名="+e.getClass().getName());
+
+            if(e instanceof DuplicateKeyException) {
+                throw new LoginAcctAlreadyInUseException(CrowdConstant.MESSAGE_LOGIN_ACCT_ALREADY_IN_USE);
+            }
+        }
+
+    }
     @Override
     public List<Admin> getAll() {
         return adminMapper.selectByExample(new AdminExample());
@@ -151,5 +181,20 @@ public class AdminServiceImpl implements AdminService {
         if(roleIdList != null && roleIdList.size() > 0) {
             adminMapper.insertNewRelationship(adminId, roleIdList);
         }
+    }
+    @Override
+    public Admin getAdminByLoginAcct(String username) {
+
+        AdminExample example = new AdminExample();
+
+        Criteria criteria = example.createCriteria();
+
+        criteria.andLoginAcctEqualTo(username);
+
+        List<Admin> list = adminMapper.selectByExample(example);
+
+        Admin admin = list.get(0);
+
+        return admin;
     }
 }

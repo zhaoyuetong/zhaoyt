@@ -18,14 +18,14 @@
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <style>
 </style>
-<title>众筹网</title>
+<title>尚筹网</title>
 </head>
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
 				<div>
-					<a class="navbar-brand" href="index.html" style="font-size: 32px;">众筹网-创意产品众筹平台</a>
+					<a class="navbar-brand" href="index.html" style="font-size: 32px;">尚筹网-创意产品众筹平台</a>
 				</div>
 			</div>
 		</div>
@@ -33,11 +33,12 @@
 
 	<div class="container">
 
-		<form action="admin/do/login.html" method="post" class="form-signin" role="form">
+		<form action="security/do/login.html" method="post" class="form-signin" role="form">
 			<h2 class="form-signin-heading">
 				<i class="glyphicon glyphicon-log-in"></i> 管理员登录
 			</h2>
 			<p>${requestScope.exception.message }</p>
+			<p>${SPRING_SECURITY_LAST_EXCEPTION.message }</p>
 			<div class="form-group has-success has-feedback">
 				<input type="text" name="loginAcct" value="tom" class="form-control" id="inputSuccess4"
 					placeholder="请输入登录账号" autofocus> <span

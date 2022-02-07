@@ -11,6 +11,7 @@ import org.junit.runner.RunWith;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
@@ -35,7 +36,18 @@ public class CrowdTest {
 
 	@Autowired
 	private AdminService adminService;
+	@Autowired
+	private BCryptPasswordEncoder passwordEncoder;
 
+	@Test
+	public void saveAdmin() {
+
+		// 1.密码加密
+		String userPswd = "123123";
+		// userPswd = CrowdUtil.md5(userPswd);
+		userPswd = passwordEncoder.encode(userPswd);
+		System.out.println(userPswd);
+	}
 	@Test
 	public void testTx() {
 		Admin admin = new Admin(null, "jerry", "123456", "杰瑞", "jerry@qq.com", null);

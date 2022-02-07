@@ -11,6 +11,24 @@
 
     <artifactId>atcrowdfunding03-admin-component</artifactId>
     <dependencies>
+
+        <!-- SpringSecurity对Web应用进行权限管理 -->
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-web</artifactId>
+        </dependency>
+
+        <!-- SpringSecurity配置 -->
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-config</artifactId>
+        </dependency>
+
+        <!-- SpringSecurity标签库 -->
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-taglibs</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>atcrowdfunding04-admin-entity</artifactId>

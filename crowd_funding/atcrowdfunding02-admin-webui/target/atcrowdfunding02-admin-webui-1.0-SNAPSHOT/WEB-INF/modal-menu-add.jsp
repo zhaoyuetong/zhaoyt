@@ -8,7 +8,7 @@
 					aria-label="Close">
 					<span aria-hidden="true">&times;</span>
 				</button>
-				<h4 class="modal-title">众筹网系统弹窗</h4>
+				<h4 class="modal-title">尚筹网系统弹窗</h4>
 			</div>
 			<form>
 				<div class="modal-body">
