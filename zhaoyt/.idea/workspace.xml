@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caeeb3fc-c20b-4102-8f4f-c6ff9c26a622" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Proxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/Proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/service/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/service/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/spring/BeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/spring/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/spring/ComponentScan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/spring/MyApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zhaoyt/com/atzyt/spring/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/service/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/service/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/spring/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/spring/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/spring/ComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/spring/MyApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atzyt/spring/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhaoyt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/AuthMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/MenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-tx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-tx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/resources/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/assign-role.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/assign-role.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-sidebar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/include-sidebar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/menu-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/menu-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-confirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-confirm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-menu-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-assign-auth.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-assign-auth.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-confirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-confirm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/modal-role-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/role-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/role-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/system-error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/system-error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/target.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/target.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-role.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-role.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/pagination.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/jquery/jquery.pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/jquery/jquery.pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/script/back-to-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/script/back-to-top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/script/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/script/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/test.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/ztree/zTreeStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/main/webapp/ztree/zTreeStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/test/java/com/atzyt/crowd/test/CrowdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/src/test/java/com/atzyt/crowd/test/CrowdTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/assign-role.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/assign-role.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AuthMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/MenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-persist-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-persist-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-persist-tx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-persist-tx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/classes/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-sidebar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/include-sidebar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/menu-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/menu-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-confirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-confirm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-menu-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-assign-auth.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-assign-auth.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-confirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-confirm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/modal-role-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/role-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/role-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/system-error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/system-error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/target.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/target.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/crowd/my-menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/crowd/my-menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/crowd/my-role.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/crowd/my-role.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/pagination.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/fontawesome4.2/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/jquery/jquery.pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/jquery/jquery.pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/script/back-to-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/script/back-to-top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/script/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/script/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/test.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/ztree/zTreeStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/ztree/zTreeStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AuthMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/MenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-persist-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-persist-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-persist-tx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-persist-tx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/classes/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/test-classes/com/atzyt/crowd/test/CrowdTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding02-admin-webui/target/test-classes/com/atzyt/crowd/test/CrowdTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mapper/AuthMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mapper/AuthMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mapper/MenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mapper/MenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/CrowdExceptionResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/CrowdExceptionResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/CrowdUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/CrowdUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/SecurityAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/SecurityAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/WebAppSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/config/WebAppSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/AdminHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/AdminHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/AssignHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/AssignHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/MenuHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/MenuHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/RoleHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/handle/RoleHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/mvc/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/MenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/api/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/MenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/com/atzyt/crowd/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/org/springframework/web/filter/DelegatingFilterProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/src/main/java/org/springframework/web/filter/DelegatingFilterProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/target/classes/META-INF/atcrowdfunding03-admin-component.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/target/classes/com/atzyt/crowd/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding03-admin-component/target/classes/com/atzyt/crowd/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding04-admin-entity/src/main/java/com/atzyt/crowd/entity/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding04-admin-entity/src/main/java/com/atzyt/crowd/entity/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding04-admin-entity/target/classes/META-INF/atcrowdfunding04-admin-entity.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/constant/CrowdConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/constant/CrowdConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/AccessForbiddenException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/AccessForbiddenException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginAcctAlreadyInUseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginAcctAlreadyInUseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginAcctAlreadyInUseForUpdateException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginAcctAlreadyInUseForUpdateException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginFailedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/exception/LoginFailedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/util/CrowdUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/util/CrowdUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/util/ResultEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/src/main/java/com/atzyt/crowd/util/ResultEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/target/classes/com/atzyt/crowd/util/CrowdUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/target/classes/com/atzyt/crowd/util/CrowdUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/target/classes/com/atzyt/crowd/util/ResultEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding05-common-util/target/classes/com/atzyt/crowd/util/ResultEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding06-common-reverse/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crowd_funding/atcrowdfunding06-common-reverse/target/classes/generatorConfig.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JAUtc7vMsAYCPISoMHMS1nfZDO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atzyt.spring" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atzyt.service.Test" />
+      <module name="zhaoyt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atzyt.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caeeb3fc-c20b-4102-8f4f-c6ff9c26a622" name="Default Changelist" comment="" />
+      <created>1671520596446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671520596446</updated>
+      <workItem from="1671520597813" duration="7790000" />
+      <workItem from="1671672725210" duration="5266000" />
+      <workItem from="1671757614393" duration="4384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1671674752797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1671674752797" />
+    <state x="385" y="10" key="CommitChangelistDialog2" timestamp="1671798657947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1671798657947" />
+    <state width="388" height="466" key="DebuggerActiveHint" timestamp="1671672891195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="388" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1671672891195" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1671760097705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1671760097705" />
+    <state x="553" y="126" key="RollbackChangesDialog" timestamp="1671798761600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="126" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1671798761600" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1671798836445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1671798836445" />
+    <state x="598" y="291" key="git4idea.rebase.GitRebaseDialog" timestamp="1671798773297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="291" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1671798773297" />
+  </component>
+</project>
