@@ -6,6 +6,7 @@ import com.atzyt.springsecurity01.utils.RedisCache;
 import io.jsonwebtoken.Claims;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
@@ -16,6 +17,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.Collection;
 import java.util.Objects;
 
 @Component
@@ -47,9 +49,9 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
         if (Objects.isNull(loginUser)){
             throw new RuntimeException("用户未登录");
         }
-        //TODO 把用户信息存入到SecurityContextHolder（获取权限信息封装到authentication中）为了让后面的filter知道这个请求是已认证的
+        //把用户信息存入到SecurityContextHolder（获取权限信息封装到authentication中）为了让后面的filter知道这个请求是已认证的
         UsernamePasswordAuthenticationToken authenticationToken =
-                new UsernamePasswordAuthenticationToken(loginUser, null, null);
+                new UsernamePasswordAuthenticationToken(loginUser, null, loginUser.getAuthorities());
         SecurityContextHolder.getContext().setAuthentication(authenticationToken);
         //放行过滤器
         filterChain.doFilter(request,response);
